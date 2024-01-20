@@ -105,6 +105,14 @@ Replace `yourcontainerid` with the id of your container and `yourimageid` with t
 ## Conclusion
 In this tutorial, we created a simple Flask app and a Docker image for it. We pushed the Docker image to Docker Hub and pulled it from Docker Hub to our local machine. We also cleaned up by deleting the container and the image from our local machine.
 
+
+## Resources
+I also wrote a simple tutorial on Docker and Djang, [here](https://github.com/CyrusNchege/AWS-devops-100-day-challenge/tree/main/Day-10-Docker)
+
+Documentation on Docker can be found [here](https://docs.docker.com/)
+
+
+
 ### Note: 
 If you have any questions or wamt to contribute to this repo, please contact me at cyruschegecc@gmail.com
 
